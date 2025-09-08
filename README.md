@@ -71,5 +71,6 @@ O Python interpreta esses comandos e controla o áudio do Windows.
 Volume ajustado para: 0.45
 Comando: Pausar/Play
 Comando: Próxima música
+![Descrição da imagem](prototipo.jpg)
 
-(./prototipo.jpg)
+
